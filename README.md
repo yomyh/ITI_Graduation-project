@@ -28,7 +28,8 @@ To get started with the Parking Sensor project, follow these steps:
 
 ## Contributors
 
-This project was developed by a team of individuals as part of the 1-month training program at ITI. The contributors to this project are:
+This project was developed by a team of individuals as part of the 1-month training program at ITI. 
+The contributors to this parking sensor project are:
 
 - Yomna Hesham AbdELhamid
 - Nancy Mohsen Amin
