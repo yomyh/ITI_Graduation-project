@@ -1,17 +1,20 @@
 
 # Parking Sensor Graduation Project
 
-This repository contains the code and documentation for the Parking Sensor Graduation Project developed during a 1-month training program at ITI (Information Technology Institute) in the field of embedded systems.
+This repository contains the code and documentation for the Parking Sensor Graduation Project developed during a 1-month training program at ITI (Information Technology Institute) in the field of embedded system.
 
 ## Project Overview
 
-The Parking Sensor project aims to create a system that enhances parking safety by providing real-time distance measurement between a car and an obstacle. The system utilizes four drivers - LED, buzzer, GPIO, ultrasonic sensor, and an LCD - to accurately detect and display the distance.
+The Parking Sensor project aims to create a system that enhances parking safety by providing real-time distance measurement between a car and an obstacle. The system utilizes four drivers : LED, buzzer, GPIO, ultrasonic sensor, and an LCD to accurately detect and display the distance.
 
 ## Features
 
 - Accurate Distance Measurement: The project incorporates an ultrasonic sensor to measure the distance between the car and obstacles with high precision.
+
 - Alarm and LED Indication: When the car's distance is 50 meters or less, the system activates an alarm and LED lights to alert the driver of the approaching obstacle.
+  
 - Real-time Monitoring: The system provides real-time distance updates on an LCD display, allowing the driver to make informed parking decisions.
+  
 - Cost-effective Solution: The project offers a cost-effective solution for parking safety, utilizing readily available components and microcontrollers.
 
 ## Getting Started
@@ -27,14 +30,10 @@ To get started with the Parking Sensor project, follow these steps:
 
 This project was developed by a team of individuals as part of the 1-month training program at ITI. The contributors to this project are:
 
-- [Your Name]
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
+- Yomna Hesham AbdELhamid
+- Nancy Mohsen Amin
+- Hamsa Elhussieny Mohammed
+- Fahmy Ashraf Fahmy
+- Mohamed Sayed Abobaker
+- Youssef Mohammed Osama
 
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
-
-Feel free to customize this project description to include more specific details about your implementation and any additional features or functionalities.
